@@ -1,5 +1,5 @@
 package stack;
-
+/*Stack linkedList Implementation*/
 public class StackLinkedlist {
 	Node head;
 
