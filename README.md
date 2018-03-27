@@ -1,2 +1,5 @@
 # Stack-LinkedList-Impl
-Stack implementation with LinkedList
+
+Hi Everyone,
+I try to implement stack with LinkedList in java.
+
